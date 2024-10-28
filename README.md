@@ -5,7 +5,7 @@
 Version control is software that allows a developer to keep a history of updates to a project, safely test new changes by creating a new branch and later pushing the changes to the main branch, and collaborating on the code with other developers.
 ---
 ### Below can be found a joke
-!(Private_Joke.jpeg)
+![A joke](Private_Joke.jpeg)
 ---
 ### And below this you'll find some links
 [Car Physics for Games by Marco Monster](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
